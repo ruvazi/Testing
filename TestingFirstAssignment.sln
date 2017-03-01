@@ -7,9 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondUnitTestHandin", "Sec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitSecondHandin", "UnitSecondHandin\UnitSecondHandin.csproj", "{90F62982-A3B2-44EF-BF98-1432C3A76D67}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1EE737B-2BF0-4FB7-AAAF-F0B16DC03D17}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week 3 handin", "Week 3 handin", "{F1EE737B-2BF0-4FB7-AAAF-F0B16DC03D17}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\Dropbox\Cphbusiness\SD\Test\Hand-in-3.docx = ..\..\..\..\Dropbox\Cphbusiness\SD\Test\Hand-in-3.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week 4 handin", "week 4 handin", "{B0544EFB-AECF-40FC-862A-2357EE74BE4E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Dropbox\Cphbusiness\SD\Test\Hand-in-4.docx = ..\..\..\..\Dropbox\Cphbusiness\SD\Test\Hand-in-4.docx
 	EndProjectSection
 EndProject
 Global
